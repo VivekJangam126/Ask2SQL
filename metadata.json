@@ -1,0 +1,6 @@
+{
+  "name": "ClaritySQL",
+  "description": "Transparent AI data analyst with schema inspection, AST-validated SQL generation, explicit approval, and real query execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
